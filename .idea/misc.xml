@@ -8,7 +8,11 @@
         <entry key="..\:/Programs/AndroidDevClass/Parstagram/app/src/main/res/layout/activity_login.xml" value="0.3061594202898551" />
         <entry key="..\:/Programs/AndroidDevClass/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Programs/AndroidDevClass/Parstagram/app/src/main/res/layout/bottombar.xml" value="0.33" />
+        <entry key="..\:/Programs/AndroidDevClass/Parstagram/app/src/main/res/layout/fragment_compose.xml" value="0.16927083333333334" />
+        <entry key="..\:/Programs/AndroidDevClass/Parstagram/app/src/main/res/layout/fragment_feed.xml" value="0.1232876712328767" />
+        <entry key="..\:/Programs/AndroidDevClass/Parstagram/app/src/main/res/layout/item_post.xml" value="0.3375" />
         <entry key="..\:/Programs/AndroidDevClass/Parstagram/app/src/main/res/layout/topbar.xml" value="0.16979166666666667" />
+        <entry key="..\:/Programs/AndroidDevClass/Parstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.67" />
         <entry key="..\:/Programs/AndroidDevClass/Parstagram/app/src/main/res/xml/fileprovider.xml" value="0.3138586956521739" />
       </map>
     </option>
